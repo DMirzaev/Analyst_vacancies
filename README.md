@@ -48,3 +48,5 @@ salary_from — минимальное значение зарплаты в ви
 salary_gross_flag — 0 — вилка указана net, 1 — вилка указана gross.
 salary_to — максимальное значение зарплаты в вилке
 ![Image alt](https://github.com/DMirzaev/Analyst_vacancies/blob/main/Вакансии.jpg)
+
+https://public.tableau.com/app/profile/mirzaev.denis/viz/_17142889672030/sheet12
